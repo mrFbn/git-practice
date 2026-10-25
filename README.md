@@ -2,4 +2,3 @@
 Festival: 60y SVS
 date: save the date!
 location: sports ground schmalegg
-entry: 50e
