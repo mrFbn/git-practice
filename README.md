@@ -5,4 +5,4 @@ location: sports ground schmalegg
 program: tbd
 bands: tbd
 fr 4 june: feierabendhock
-start: 19:00
+start: 18:30
