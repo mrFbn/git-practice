@@ -6,3 +6,4 @@ program: tbd
 bands: tbd
 fr 4 june: feierabendhock
 start: 18:30
+directions: sportplatz, parken etc.
